@@ -1,0 +1,60 @@
+{
+  "partners":[
+    {
+      "id": 1,
+      "name": "Mantra4Change",
+      "type": "momentum",
+      "website": "https://www.mantra4change.org",
+      "description": "",
+      "logo": "icons/mantra.png",
+      "hq_location": {"lat":  12.906123320580075, "lon":  77.58367301536951},
+      "other_locations": [
+        {
+          "lat": 12.71009033568906,
+          "lon": 77.69852299006696
+        },
+        {
+          "lat": 25.62254493868842,
+          "lon": 85.0901721210514
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Axis Bank",
+      "type": "strategic",
+      "website": "https://www.axisbank.com",
+      "description": "",
+      "logo": "icons/axisbank.png",
+      "hq_location": {"lat": 19.00802464868158, "lon": 72.82940666094962},
+      "other_locations": []
+    },
+    {
+      "id": 3,
+      "name": "Tekdi",
+      "type": "collaborator",
+      "website": "https://www.tekdi.net",
+      "description": "",
+      "logo": "icons/tekdi.png",
+      "hq_location": {"lat": 18.508677295335218, "lon": 73.78895052687194},
+      "other_locations": []
+    },
+    {
+      "id": 4,
+      "name": "Sanjay Purohit",
+      "type": "mentor",
+      "website": "https://centreforexponentialchange.org",
+      "description": "",
+      "logo": "icons/sanjaypurohit.png",
+      "hq_location": {"lat": 12.931155657637614, "lon": 77.62386782463433},
+      "other_locations": []
+    }
+  ],
+  "partner_links": [
+    {
+      "from_id": 2,
+      "to_id": 1,
+      "type": "strategic_to_momentum"
+    }
+  ]
+}

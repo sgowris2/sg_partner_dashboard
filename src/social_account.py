@@ -61,7 +61,6 @@ class LinkedInAccount(SocialAccount):
     def __init__(self, account_info):
         self.channel = 'linkedin'
         self.name = account_info.get('name')
-        self.
 
 
 class FacebookAccount(SocialAccount):

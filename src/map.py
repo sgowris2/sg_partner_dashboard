@@ -43,6 +43,14 @@ def popup_html(partner_name, partner_url):
     <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Website</span></td>
     <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(partner_url) + """
     </tr>
+    <tr>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Website</span></td>
+    <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(partner_url) + """
+    </tr>
+    <tr>
+    <td style="background-color: """ + left_col_color + """;"><span style="color: #ffffff;">Website</span></td>
+    <td style="width: 150px;background-color: """ + right_col_color + """;">{}</td>""".format(partner_url) + """
+    </tr>
     </tbody>
 </table>
 </html>
