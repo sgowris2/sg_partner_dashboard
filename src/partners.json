@@ -558,6 +558,66 @@
       "to_id": 19,
       "to_location_id": 2,
       "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 3,
+      "to_location_id": 1,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 10,
+      "to_location_id": 0,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 10,
+      "to_location_id": 1,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 10,
+      "to_location_id": 2,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 10,
+      "to_location_id": 3,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 10,
+      "to_location_id": 4,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 10,
+      "to_location_id": 5,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 19,
+      "to_location_id": 0,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 19,
+      "to_location_id": 1,
+      "type": "strategic_to_momentum"
+    },
+    {
+      "from_id": 23,
+      "to_id": 19,
+      "to_location_id": 2,
+      "type": "strategic_to_momentum"
     }
   ]
 }
